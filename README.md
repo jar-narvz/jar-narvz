@@ -1,8 +1,8 @@
 ### Jared Narvaez
-CS + Data Science @ UC Berkeley (May 2027). Multi-agent systems intern at PhysaFlow, building propose-only domain agents for data-center operations in Python.
+cs + ds @ uc berkeley '27. multi-agent systems intern at physaFlow, building propose-only domain agents for data-center operations in python.
 
-- Site: https://jarnarvz.com
-- Résumé: https://jarnarvz.com/Jared-Narvaez-Resume.pdf
-- LinkedIn: https://www.linkedin.com/in/jaredrnarvaez/
+- site: https://jarnarvz.com
+- résumé: https://jarnarvz.com/Jared-Narvaez-Resume.pdf
+- linkedIn: https://www.linkedin.com/in/jaredrnarvaez/
 
-Currently: open to 2027 new-grad SWE/ML roles and Spring 2027 co-ops.
+currently: open to 2027 new-grad SWE/ML roles and spring 2027 co-ops.
